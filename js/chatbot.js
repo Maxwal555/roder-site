@@ -8,7 +8,7 @@
 
     // Конфигурация
     const CONFIG = {
-        formspreeEndpoint: 'https://formspree.io/f/xpwrqkba', // Замените на свой Formspree ID после регистрации
+        formspreeEndpoint: 'https://formspree.io/f/xojbokkd',
         botName: 'РОДЕР Ассистент',
         email: 'mv@roder.ru'
     };

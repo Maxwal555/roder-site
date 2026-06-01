@@ -10,7 +10,7 @@
     const CONFIG = {
         formspreeEndpoint: 'https://formspree.io/f/xojbokkd',
         botName: 'РОДЕР Ассистент',
-        email: 'vakulenko@prostotent.ru'
+        email: 'maksimvakulenko51@gmail.com'
     };
 
     // Сценарий диалога
